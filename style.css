@@ -278,6 +278,10 @@ footer ul {
   justify-content: space-between;
   align-items: center;
 }
+.footer-wrapper img {
+  height: 2.5rem;
+}
+
 
 /* Button focus to make website accessible */
 
